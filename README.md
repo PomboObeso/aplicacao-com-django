@@ -1,2 +1,6 @@
-# aplicacao-com-django
-Aplicação de teste Django com template  implementado. 
+# aAplicação Django com PostgreSQL
+Aplicação de teste Django com template implementado. 
+
+Projeto publicado no Heroku:https://fusion-mgo.herokuapp.com/
+
+Tecnologias: Django,PostgreSQL, Bootstrap
